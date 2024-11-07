@@ -15,6 +15,7 @@
     "autoprefixer": "^10.4.20",
     "deprecated-react-native-prop-types": "^5.0.0",
     "expo": "~51.0.28",
+    "expo-linear-gradient": "~13.0.2",
     "expo-status-bar": "~1.12.1",
     "nativewind": "^2.0.11",
     "patch-package": "^8.0.0",
@@ -34,6 +35,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@babel/plugin-transform-private-methods": "^7.25.9",
     "metro-react-native-babel-preset": "^0.77.0",
     "tailwindcss": "^3.3.2"
   },
